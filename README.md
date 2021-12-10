@@ -31,3 +31,6 @@ building for SOC technology &amp; project
 
 ### AMBA BUS PROTOCAL ### 
 AXI: https://xueying.blog.csdn.net/article/details/116666394
+https://zhuanlan.zhihu.com/p/186270857
+https://xueying.blog.csdn.net/article/details/119426597
+https://www.captainai.net/xmg/
